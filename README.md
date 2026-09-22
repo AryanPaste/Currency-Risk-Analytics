@@ -34,3 +34,6 @@ The project does not rely on a static, downloaded CSV file. Instead, it dynamica
 2.  **Exploratory Data Analytics (EDA):** Generates correlation heatmaps to identify diversification opportunities between the Dollar, Euro, and Pound against the Rupee.
 3.  **Predictive Risk Modeling (AI Component):** Simulates 10,000 independent 30-day price paths using Geometric Brownian Motion.
 4.  **Decision Intelligence:** Outputs a 95% Confidence Interval Value at Risk (VaR), translating raw statistical variance into a concrete business metric (maximum expected loss).
+
+<img width="512" height="330" alt="MCS_Histogram" src="https://github.com/user-attachments/assets/3c7444a5-c73a-4dac-8641-fc3bf2f3c1ec" />
+<img width="512" height="467" alt="Heatplot" src="https://github.com/user-attachments/assets/ea1480f1-df87-4076-ae77-437c574ff132" />
